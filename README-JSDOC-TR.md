@@ -9,7 +9,7 @@ pg-generator linkleri:
 * pg-generator [sequelize sayfası](http://www.pg-generator.com/builtin-templates/sequelize/) 
 * [npm](https://www.npmjs.com/package/pg-generator)
 * [github](https://github.com/ozum/pg-generator)
-* [web](http://www.pg-generator.com))
+* [web](http://www.pg-generator.com)
 
 
 Açıklama
