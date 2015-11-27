@@ -1,3 +1,15 @@
+# Use pg-generator instead of this module (NEWER & BETTER)
+
+pg-generator is successor of this module and it is much more intuitive, flexible and easier to use.
+
+It can generate more than sequelize. Also it generates sequelize much better.
+  
+Links of pg-generator:
+
+* pg-generator's [sequelize page](http://www.pg-generator.com/builtin-templates/sequelize/) 
+* [npm](https://www.npmjs.com/package/pg-generator)
+* [github](https://github.com/ozum/pg-generator)
+* [web](http://www.pg-generator.com))
 
 Other Languages
 ---------------

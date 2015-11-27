@@ -1,3 +1,16 @@
+# Bu modül yerine pg-generator modülünü kullanın. (Daha Yeni & İyi)
+
+pg-generator bu modülün bir sonraki versiyonudur. Çok daha sezgisel, uyarlanabilir ve kolay kullanımlıdır.
+
+Sequelize'den daha fazlasını oluşturabilir. Üstelik Sequelize'ı da daha iyi oluşturur.
+  
+pg-generator linkleri:
+
+* pg-generator [sequelize sayfası](http://www.pg-generator.com/builtin-templates/sequelize/) 
+* [npm](https://www.npmjs.com/package/pg-generator)
+* [github](https://github.com/ozum/pg-generator)
+* [web](http://www.pg-generator.com))
+
 
 Açıklama
 --------
