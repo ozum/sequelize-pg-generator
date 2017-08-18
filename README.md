@@ -19,10 +19,6 @@ Description
 -----------
 This module is for auto generating Sequelize model from PostgreSQL databases. It reverse engineers your database and generates separate model files for each table. Default configuration parameters are carefully selected and they are sane to use. However it is possible to change most of the behaviours via configuration. This document is based on default configuration. Configuration parameters and default values are written as (Config parameter:value) where appropriate.
 
-Special Thanks
---------------
-This module is developed with the sponsorship of Fortibase.
-
 Usage
 -----
 

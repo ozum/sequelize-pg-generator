@@ -914,7 +914,7 @@ SET search_path = public, pg_catalog;
 -- Data for Name: account; Type: TABLE DATA; Schema: public; Owner: -
 --
 
-INSERT INTO account VALUES (1, '2014-12-12 14:41:40', '2014-12-12 14:41:40', NULL, true, false, 'Fortibase', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO account VALUES (1, '2014-12-12 14:41:40', '2014-12-12 14:41:40', NULL, true, false, 'Ozcorp', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO account VALUES (2, '2014-12-12 14:41:40', '2014-12-12 14:41:40', NULL, true, false,'FPS Production', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO account VALUES (3, '2014-12-12 14:41:40', '2014-12-12 14:41:40', NULL, true, false,'Microsoft', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO account VALUES (4, '2014-12-12 14:41:40', '2014-12-12 14:41:40', NULL, true, false,'Acme', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
@@ -976,8 +976,8 @@ INSERT INTO cart_line_item VALUES (1, 1, '2014-12-12 14:41:40', '2014-12-12 14:4
 
 INSERT INTO contact VALUES (1, '2014-12-12 14:41:40', '2014-12-12 14:41:40', 'Özüm', 'Eldoğan', 'ozum@ozum.net ', '1980-01-02', true, 1, NULL, '{"team":"BJK", "city":"Istanbul"}', '"city"=>"''Istanbul''", "team"=>"''BJK''"');
 INSERT INTO contact VALUES (2, '2014-12-12 14:41:40', '2014-12-12 14:41:40', 'Alihan', 'Karagül', 'a@fpsproduction.com', '2978-01-01', true, 2, NULL, '{"team":"FB", "city":"Istanbul"}', '"city"=>"''Istanbul''", "team"=>"''FB''"');
-INSERT INTO contact VALUES (3, '2014-12-12 14:41:40', '2014-12-12 14:41:40', 'Atalay', 'Saraç', 'atalay@fortibase.com', '1978-03-04', true, 2, NULL, '{"team":"FB", "city":"Istanbul"}', '"city"=>"''Istanbul''", "team"=>"''BJK''"');
-INSERT INTO contact VALUES (4, '2014-12-12 14:41:40', '2014-12-12 14:41:40', 'Ufuk', 'Yurtsever', 'ufuk@fortibase.com', '0150-01-01', true, 2, NULL, '{"team":"FB", "city":"Istanbul"}', '"city"=>"''Istanbul''", "team"=>"''FB''"');
+INSERT INTO contact VALUES (3, '2014-12-12 14:41:40', '2014-12-12 14:41:40', 'Kemal', 'Saral', 'kemal@ozcorp.com', '1978-03-04', true, 2, NULL, '{"team":"FB", "city":"Istanbul"}', '"city"=>"''Istanbul''", "team"=>"''BJK''"');
+INSERT INTO contact VALUES (4, '2014-12-12 14:41:40', '2014-12-12 14:41:40', 'Metin', 'Keser', 'metin@ozcorp.com', '0150-01-01', true, 2, NULL, '{"team":"FB", "city":"Istanbul"}', '"city"=>"''Istanbul''", "team"=>"''FB''"');
 
 
 --

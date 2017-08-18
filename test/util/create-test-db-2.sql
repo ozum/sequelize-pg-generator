@@ -3,7 +3,7 @@ Created: 02/10/2014
 Modified: 29/12/2014
 Project: SequelizeTest
 Model: SequelizeTest
-Company: Fortibase
+Company: Ozcorp
 Author: Özüm Eldoğan
 Version: 1.0
 Database: PostgreSQL 9.2
@@ -109,10 +109,10 @@ INSERT INTO contact ("name", "surname", "email", "birth_date", "company_id", "cu
 VALUES (E'Alihan', E'Karagül', E'a@fpsproduction.com', E'2978-01-01', 2, E'{\"team\":\"FB\", \"city\":\"Istanbul\"}', E'\"city\"=>\"''Istanbul''\", \"team\"=>\"''FB''\"');
 
 INSERT INTO contact ("name", "surname", "email", "birth_date", "company_id", "custom", "custom_hstore")
-VALUES (E'Atalay', E'Saraç', E'atalay@fortibase.com', E'1978-03-04', 2, E'{\"team\":\"FB\", \"city\":\"Istanbul\"}', E'\"city\"=>\"''Istanbul''\", \"team\"=>\"''BJK''\"');
+VALUES (E'Kemal', E'Saral', E'kemal@ozcorp.com', E'1978-03-04', 2, E'{\"team\":\"FB\", \"city\":\"Istanbul\"}', E'\"city\"=>\"''Istanbul''\", \"team\"=>\"''BJK''\"');
 
 INSERT INTO contact ("name", "surname", "email", "birth_date", "company_id", "custom", "custom_hstore")
-VALUES (E'Ufuk', E'Yurtsever', E'ufuk@fortibase.com', E'0150-01-01', 2, E'{\"team\":\"FB\", \"city\":\"Istanbul\"}', E'\"city\"=>\"''Istanbul''\", \"team\"=>\"''FB''\"');
+VALUES (E'Metin', E'Keser', E'metin@ozcorp.com', E'0150-01-01', 2, E'{\"team\":\"FB\", \"city\":\"Istanbul\"}', E'\"city\"=>\"''Istanbul''\", \"team\"=>\"''FB''\"');
 
 -- Create indexes for table contact
 
@@ -175,7 +175,7 @@ COMMENT ON COLUMN "account"."is_active" IS 'Kayıt sistemde aktif olarak kullan�
 COMMENT ON COLUMN "account"."name" IS 'Firma adı.'
 ;
 
-INSERT INTO account (name) VALUES ('Fortibase');
+INSERT INTO account (name) VALUES ('Ozcorp');
 INSERT INTO account (name) VALUES ('FPS Production');
 INSERT INTO account (name) VALUES ('Microsoft');
 INSERT INTO account (name) VALUES ('Acme');

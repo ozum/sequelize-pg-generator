@@ -18,7 +18,7 @@ Bu modül PostgreSQL veri tabanındann otomatik olarak Sequelize modellerini olu
 
 Teşekkür
 --------
-Bu modül Fortibase desteği ile geliştirilmiştir.
+Bu modül Ozcorp desteği ile geliştirilmiştir.
 
 Kullanım
 --------

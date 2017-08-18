@@ -21,7 +21,7 @@ This module is for auto generating Sequelize model from PostgreSQL databases. It
 
 Special Thanks
 --------------
-This module is developed with the sponsorship of Fortibase.
+This module is developed with the sponsorship of Ozcorp.
 
 Usage
 -----

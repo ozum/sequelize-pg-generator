@@ -16,10 +16,6 @@ Açıklama
 --------
 Bu modül PostgreSQL veri tabanındann otomatik olarak Sequelize modellerini oluşturur. Veri tabanınızı inceleyerek her bir tablo için ayrı bir model dosyası oluşturur. Varsayılan konfigürasyon ayarları olabildiğince dikkatli seçilmiştir ve doğrudan değişiklik yapmadan kullanıma uygundur. Yine de dilerseniz konfigürasyon aracılığı ile bir çok davranış biçimini değiştirebilirsiniz. Bu doküman varsayılan konfigürasyona göre hazırlanmıştır. Dokümanda ilgili yerlerde konfigürasyon parametreleri ve varsayılan değerleri (Konfigürasyon parametresi:varsayılan değer) şeklinde belirtilmiştir.
 
-Teşekkür
---------
-Bu modül Fortibase desteği ile geliştirilmiştir.
-
 Kullanım
 --------
 
