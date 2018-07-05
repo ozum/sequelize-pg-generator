@@ -1,19 +1,22 @@
-# Use pg-generator instead of this module (NEWER & BETTER)
+# DEPRECIATION NOTICE: Use [pg-generator](http://www.pg-generator.com)
 
-pg-generator is successor of this module and it is much more intuitive, flexible and easier to use.
+Project is renamed as [pg-generator](http://www.pg-generator.com) which
 
-It can generate more than sequelize. Also it generates sequelize much better.
+* is flexible and easier to customize, (uses nunjucks templates)
+* generates more than sequelize, (provides example templates for sequelize, objection, schwifty etc.)
   
 Links of pg-generator:
 
-* pg-generator's [sequelize page](http://www.pg-generator.com/builtin-templates/sequelize/) 
-* [npm](https://www.npmjs.com/package/pg-generator)
-* [github](https://github.com/ozum/pg-generator)
-* [web](http://www.pg-generator.com)
+* Web: http://www.pg-generator.com
+* pg-generator's sequelize page: http://www.pg-generator.com/builtin-templates/sequelize
+* npm: https://www.npmjs.com/package/pg-generator
+* github: https://github.com/ozum/pg-generator
 
 Other Languages
 ---------------
 Türkçe: [Turkish Documentation is here](https://github.com/ozum/sequelize-pg-generator/blob/master/README-TR.md)
+
+Old module and its documentation is preserved here for reference purposes.
 
 Description
 -----------
